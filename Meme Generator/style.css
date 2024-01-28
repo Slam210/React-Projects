@@ -100,3 +100,9 @@ main {
 .top {
     top: 0;
 }
+
+.meme {
+    justify-content: center;
+    display: flex;
+    flex-wrap: wrap;
+}
